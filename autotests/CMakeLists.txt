@@ -36,7 +36,7 @@ set(testzodiac_SRCS testzodiac.cpp)
 add_executable(testzodiac ${testzodiac_SRCS})
 add_test(testzodiac testzodiac)
 ecm_mark_as_test(testzodiac)
-target_link_libraries(testzodiac KF5Holidays Qt5::Test)
+target_link_libraries(testzodiac KF5Holidays Qt5::Test KF5::KDELibs4Support)
 
 ########### next target ###############
 

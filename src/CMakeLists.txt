@@ -76,6 +76,7 @@ if (Qt5Designer_FOUND)
         KF5::ItemViews
         KF5::Completion
         KF5::Holidays
+        KF5::KDELibs4Support
     )
     set_target_properties(holidayswidgets PROPERTIES
         OUTPUT_NAME holidays5widgets
