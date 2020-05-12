@@ -1,16 +1,17 @@
- 
 ::
 :: Country:  Indonesia
 ::
-:: Language: Indonesian
+:: Language: US English
 ::
 :: Author:   Christophe Giboudeaux <cgiboudeaux@gmx.com>
-:: Author:   Ronggo Radityo <radityo3000@yahoo.com>
+::           Ronggo Radityo <radityo3000@yahoo.com>
+::           Estu Fardani <andro.medh4@gmail.com>
 ::
-:: Updated:  2012-03-13
+:: Updated:  2020-05-13
 ::
 :: Source:   http://en.wikipedia.org/wiki/Public_holidays_in_Indonesia
-:: Source:   http://www.officeholidays.com/countries/indonesia/2012.asp
+:: Source:   https://www.officeholidays.com/countries/indonesia/2020
+::
 
 :: Metadata
 country     "ID"
@@ -25,13 +26,14 @@ description "File Hari Libur Nasional Indonesia"
 : Independence Day
 "Hari Proklamasi Kemerdekaan R.I."       public  on august 17
 
-
 :: Religious
 : Balinese Galungan (lunar cal)
 "Hari Raya Galungan"                     religious on february 1 2012
+"Hari Raya Galungan"                     religious on february 19 2020
 
 : Balinese Kuningan (lunar cal)
 "Hari Raya Kuningan"                     religious on february 11 2012
+"Hari Raya Kuningan"                     religious on february 29 2020
 
 : Ash Wednesday
 "Rabu Abu"                               religious on easter minus 46 days
@@ -39,6 +41,9 @@ description "File Hari Libur Nasional Indonesia"
 : Balinese New Year (lunar cal)
 "Hari Raya Nyepi"                        public on march 23 2012
 "Hari Raya Nyepi"                        public on march 12 2013
+"Hari Raya Nyepi"                        public on march 25 2020
+"Hari Raya Nyepi"                        public on march 14 2021
+"Hari Raya Nyepi"                        public on march 03 2022
 
 : Birth of the Prophet (hijri cal)
 "Maulid Nabi Muhammad SAW"               public religious on hijri rabialawal 12
@@ -49,6 +54,9 @@ description "File Hari Libur Nasional Indonesia"
 : Buddha's Birthday (lunar cal)
 "Waisak"                                 public religious on may 6 2012
 "Waisak"                                 public religious on may 25 2013
+"Waisak"                                 public religious on may 07 2020
+"Waisak"                                 public religious on may 26 2021
+"Waisak"                                 public religious on may 16 2022
 
 : Ascension Day
 "Kenaikan Yesus Kristus"                 public religious on easter plus 39 days
@@ -76,7 +84,6 @@ description "File Hari Libur Nasional Indonesia"
 : Chinese New Year (lunar cal)
 "Tahun Baru Imlek"                       public on january 23 2012
 "Tahun Baru Imlek"                       public on february 9 2013
-: Chinese New Year (from Hong Kong kholiday file)
 "Tahun Baru Imlek"                       public on 31 january 2014
 "Tahun Baru Imlek"                       public on 19 february 2015
 "Tahun Baru Imlek"                       public on 8 february 2016
@@ -84,6 +91,8 @@ description "File Hari Libur Nasional Indonesia"
 "Tahun Baru Imlek"                       public on 16 february 2018
 "Tahun Baru Imlek"                       public on 5 february 2019
 "Tahun Baru Imlek"                       public on 25 january 2020
+"Tahun Baru Imlek"                       public on 12 february 2021
+"Tahun Baru Imlek"                       public on 1 february 2022
 
 :: School
 
@@ -105,7 +114,7 @@ description "File Hari Libur Nasional Indonesia"
 : Earth day
 "Hari Bumi"                              civil on april 22
 : Labor day 
-"Hari Buruh"                             civil on may 1
+"Hari Buruh"                             public on may 1
 : National Education Day
 "Hari Pendidikan Nasional"               civil on may 2
 : World Red Cross and Red Crescent Day
@@ -117,7 +126,7 @@ description "File Hari Libur Nasional Indonesia"
 : World No Tobacco Day
 "Hari Tanpa Tembakau Sedunia"            civil on may 31
 : Pancasila Birthday
-"Hari Lahir Pancasila"                   civil on june 1
+"Hari Lahir Pancasila"                   public on june 1
 : Police Force Birthday
 "Hari Bhayangkara"                       civil on july 1
 : National Children day (note: en.wikipedia got this wrong)
@@ -153,6 +162,7 @@ description "File Hari Libur Nasional Indonesia"
 : Joint Leave for 2012
 : Joint leave for Ascension Day
 "Cuti Bersama Kenaikan Yesus Kristus"    public on may      18 2012
+"Cuti Bersama Kenaikan Yesus Kristus"    public on may      22 2020
 : Joint leave for Eid Al-Fitr
 "Cuti Bersama Idul Fitri"                public on august   21 2012 length 2 days
 : Joint leave for Islamic New Year
@@ -161,4 +171,3 @@ description "File Hari Libur Nasional Indonesia"
 "Cuti Bersama Tahun Baru Hijriyah"       public on december 24 2012
 : Joint leave for 2013 New Year's Day
 "Cuti bersama Tahun Baru 2013"           public on december 31 2012
-
